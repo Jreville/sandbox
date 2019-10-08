@@ -29,7 +29,7 @@
         <entry file="file://$PROJECT_DIR$/config/bundles.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="374">
-              <caret line="24" selection-start-line="24" selection-end-line="24" />
+              <caret line="25" selection-start-line="25" selection-end-line="25" />
             </state>
           </provider>
         </entry>
@@ -209,6 +209,8 @@
       <path value="$PROJECT_DIR$/vendor/willdurand/negotiation" />
       <path value="$PROJECT_DIR$/vendor/api-platform/core" />
       <path value="$PROJECT_DIR$/vendor/api-platform/api-pack" />
+      <path value="$PROJECT_DIR$/vendor/symfony/mercure" />
+      <path value="$PROJECT_DIR$/vendor/symfony/mercure-bundle" />
     </include_path>
   </component>
   <component name="ProjectConfigurationFiles">
@@ -299,7 +301,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1570546558421</updated>
-      <workItem from="1570546560256" duration="4568000" />
+      <workItem from="1570546560256" duration="5250000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit">
       <created>1570548308644</created>
@@ -329,11 +331,18 @@
       <option name="project" value="LOCAL" />
       <updated>1570550968796</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Install Mercure">
+      <created>1570551291577</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1570551291577</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4568000" />
+    <option name="totallyTimeSpent" value="5250000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
@@ -377,7 +386,8 @@
     <MESSAGE value="First Commit" />
     <MESSAGE value="Install SonataAdmin" />
     <MESSAGE value="Install API Platform" />
-    <option name="LAST_COMMIT_MESSAGE" value="Install API Platform" />
+    <MESSAGE value="Install Mercure" />
+    <option name="LAST_COMMIT_MESSAGE" value="Install Mercure" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/.gitignore">
@@ -397,7 +407,7 @@
     <entry file="file://$PROJECT_DIR$/config/bundles.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
         </state>
       </provider>
     </entry>
